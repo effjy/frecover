@@ -1,6 +1,6 @@
-# Forensic Recovery v1.0.1 (`frecover`)
-
 <div align="center">
+
+<a href="https://github.com/effjy/frecover/"><img src="titles/forensic-recovery-title.svg" height="52" alt="FORENSIC RECOVERY"></a>
 
 [![License](https://img.shields.io/badge/License-MIT-teal?style=flat-square&labelColor=1a1a1a)](https://github.com/effjy/frecover/)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-teal?style=flat-square&labelColor=1a1a1a)](https://github.com/effjy/frecover/)
